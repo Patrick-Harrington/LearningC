@@ -2,7 +2,7 @@
     Read and Print -- written to understand the basics of reading and printing the contents of a file.
     Intended to serve as a building block to later process the contents of a file. The file being
     read is explicitly given in the fopen() function and its contents are simply printed to the
-    terminal. Also, use of the errno.h library provides some experience in error handling.
+    terminal. Also, use of the errno.h header file provides some experience in error handling.
 
     Written by: Pat Harrington
     Date: 2/2/2024
