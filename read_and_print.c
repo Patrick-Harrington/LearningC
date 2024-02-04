@@ -9,7 +9,7 @@
 */
 
 #include <stdio.h>
-#include <errno.h> // For user with perror() in line 13
+#include <errno.h> // For use with perror() in line 13
 
 int main() {
     FILE *file;
