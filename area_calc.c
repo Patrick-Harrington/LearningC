@@ -1,6 +1,6 @@
 /*
     Area Calc -- written to allow a user to calculate the area of circles, squares, and triangles. This
-    pogram demonstrates the ability to provide multipel choices for the user, then make decisions based
+    program demonstrates the ability to provide multiple choices for the user, then make decisions based
     on their choice. It utilizes the additional library 'math.h' and a symbolic constant. 
 
     Written by: Pat Harrington
