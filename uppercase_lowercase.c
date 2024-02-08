@@ -1,7 +1,7 @@
 /*
     Uppercase/Lowercase -- takes the user's input as a string and converts all uppercase 
     characters to lowercase and lowercase to uppercase. Written to make use of the ctype.h
-    header file and practice the input-process-output. 
+    header file and practice basic input-process-output. 
 
     Written by: Pat Harrington
     Date: 2/8/2024
