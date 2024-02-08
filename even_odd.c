@@ -1,6 +1,6 @@
 /*
-    Single Prime -- takes input from user in the form of an integer and determines if 
-    it is prime.
+    Even or Odd -- takes user input in the form of an integer and determines if
+    it is even or odd.
 
     Written by: Pat Harrington
     Date: 2/7/2024
