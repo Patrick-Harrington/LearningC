@@ -1,5 +1,6 @@
 /*
-    Write a C Program to swap two numbers
+    Swap -- accepts two inputs from the user in the form of integers, then swaps their
+    values using a temporary variable.
 
     Written by: Pat Harrington
     Date: 2/8/2024
