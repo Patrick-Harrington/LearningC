@@ -1,5 +1,5 @@
 /*
-    Palindrome -- accepts user input in the form of a string and determines whether is is a 
+    Palindrome -- accepts user input in the form of a string and determines whether it is a 
     palindrome (the same forward/backward). 
 
     Written by: Pat Harrington
