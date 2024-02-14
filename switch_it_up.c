@@ -2,7 +2,7 @@
     Switch It Up -- demonstrate basic use of a switch statement by allowing a user to choose an
     operator followed by two operands, then view the result.
 
-    Written By : Pat Harrington
+    Written by : Pat Harrington
     Date 1/26/2024
 */
 
