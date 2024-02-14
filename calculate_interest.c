@@ -1,5 +1,5 @@
 /*
-    Calculate Interest -- accepts user input for principal amount, interst rate, and time in years.
+    Calculate Interest -- accepts user input for principal amount, interest rate, and time in years.
     The interest is calculated and printed to the terminal along with the new total.
 
     This program will assume interest is compounded annually: 
@@ -37,7 +37,7 @@ int main()
     // Calculate compound interest
     A = P * pow((1 + r), t) - P;
 
-    // Print compound interest
+    // Print compound interest and new total
     printf("\nCompound Interest: $%.2lf\n", A);
     printf("New Total: $%.2lf\n", A + P);
 
