@@ -1,3 +1,11 @@
+/*
+    Process File of Choice -- expanding upon Read and Print, the user can now input the file
+    they wish to open and print the contents.
+
+    Written by: Pat Harrington
+    Date: 2/14/2024
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <errno.h> // For use with perror() in line 13
