@@ -1,5 +1,6 @@
  /*
-    Write a C Program to accept input and print out a 2Dimensional Array of size 3 X 3
+    Visual Matrix 2 -- expanding upon Visual Matrix, the user can now input the values 
+    for the 3 X 3 matrix.
 
     Written by: Pat Harrington
     Date: 2/13/2024
