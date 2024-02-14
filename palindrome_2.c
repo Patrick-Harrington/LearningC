@@ -32,7 +32,7 @@ int isPalindrome(char userString[]) {
         }
     }
 
-}
+} // End isPalindrome
 
 int main()
 {
